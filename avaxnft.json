@@ -1,0 +1,20 @@
+{
+    "name": "Ankr x Avalanche ERC-721 NFT",
+    "description": "Ankr x Avalanche ERC-721 NFT",
+    "image": "https://bafybeih5cg6pbmehza5s6ridpakfmevxmhnhxapucytwjk73z7pxrwvgmy.ipfs.dweb.link/?filename=221964fg.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Developer",
+        "value": "Baldwin"
+      },
+      {
+        "trait_type": "Website",
+        "value": "https://ankr.com"
+      },
+      {
+        "trait_type": "Conference",
+        "value": "https://avalanche.house"
+      }
+    ]
+  }
+  
